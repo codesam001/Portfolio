@@ -1,0 +1,43 @@
+// THis is our main color we can use them whereever we want 
+
+$mainColor: #15023a;
+
+$width: 700px;
+
+@mixin mobile{
+    @media (max-width: #{$width}){
+        @content
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
